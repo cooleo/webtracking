@@ -1,0 +1,4 @@
+org/apache/phoenix/tracingwebapp/http/Main.class
+org/apache/phoenix/tracingwebapp/http/EntityFactory.class
+org/apache/phoenix/tracingwebapp/http/TraceServlet.class
+org/apache/phoenix/tracingwebapp/http/ConnectionFactory.class
